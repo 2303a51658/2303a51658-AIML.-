@@ -5,6 +5,6 @@
 #[Lab 05](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/AIML%20LAB05.ipynb)     
 #[Lab 06](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/AIML%20LAB06.ipynb)     
 #[Lab 07](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/Lab_7.ipynb )  
-#[Lab 08](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/AIML%20LAB08.ipynb)
-#[Lab 09](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/Lab09-AIML.ipynb)
+#[Lab 08](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/AIML%20LAB08.ipynb)\
+#[Lab 09](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/Lab09-AIML.ipynb)\
 #[Lab 10](https://github.com/2303a51658/2303a51658-AIML.-/blob/main/AIML%20LAB10.ipynb)
